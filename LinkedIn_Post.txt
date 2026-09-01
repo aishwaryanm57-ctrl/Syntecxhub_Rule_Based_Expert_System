@@ -1,0 +1,14 @@
+I’m happy to share that I completed Project 2 of my Artificial Intelligence internship with Syntecxhub.
+
+Project: Rule-Based Expert System
+
+Key highlights:
+• Built a rule engine using IF-THEN rules and a facts base
+• Implemented forward chaining for inference
+• Supported multi-step rule chaining
+• Added an inference log to display the reasoning path
+• Developed the project using Python
+
+This project helped me understand the fundamentals of knowledge representation, rule-based reasoning, inference engines and artificial intelligence problem solving.
+
+#ArtificialIntelligence #Python #ExpertSystem #AI #Syntecxhub #Internship

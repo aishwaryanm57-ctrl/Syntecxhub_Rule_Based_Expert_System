@@ -1,0 +1,24 @@
+Rule-Based Expert System
+------------------------
+
+Enter facts separated by commas.
+Example: fever, cough, fatigue
+Facts: 
+========================================
+     RULE-BASED EXPERT SYSTEM
+========================================
+
+Initial Facts:
+  - cough
+  - fatigue
+  - fever
+
+Inference Steps:
+  1. Rule 1: IF cough, fever THEN possible respiratory infection
+  2. Rule 2: IF fatigue, possible respiratory infection THEN recommend rest and hydration
+
+Inferred Conclusions:
+  - possible respiratory infection
+  - recommend rest and hydration
+
+Reasoning completed using forward chaining.
